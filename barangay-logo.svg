@@ -1,0 +1,21 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sealBg" x1="10" y1="10" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6C76A"/>
+      <stop offset="1" stop-color="#B8872B"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="20" y1="20" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F6E8"/>
+      <stop offset="1" stop-color="#D4E4D7"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="52" fill="url(#sealBg)"/>
+  <circle cx="60" cy="60" r="44" fill="#0E2E2C"/>
+  <circle cx="60" cy="60" r="38" fill="url(#ring)"/>
+  <path d="M60 25L66.5 41.5L84 43L70.5 54.5L75 72L60 62L45 72L49.5 54.5L36 43L53.5 41.5L60 25Z" fill="#0E2E2C"/>
+  <path d="M39 76H81" stroke="#0E2E2C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 80H74" stroke="#0E2E2C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49 33C55 38 58 42 60 50C62 42 65 38 71 33" stroke="#0E2E2C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 55C42 50 47 52 51 58" stroke="#0E2E2C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M84 55C78 50 73 52 69 58" stroke="#0E2E2C" stroke-width="3" stroke-linecap="round"/>
+</svg>
